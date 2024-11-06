@@ -1,4 +1,5 @@
 import React from "react";
+import "./CustomCounter.css"
 
 export default function CustomCounter() {
   return (
