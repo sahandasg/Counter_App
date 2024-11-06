@@ -1,8 +1,9 @@
+import CustomCounter from "./components/CustomCounter";
 
 
 function App() {
   return (
-    <div>hello world</div>
+    <CustomCounter/>
   );
 }
 
